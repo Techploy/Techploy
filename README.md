@@ -9,7 +9,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Techploy&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge)
+
 ![Followers](https://img.shields.io/github/followers/Techploy?style=for-the-badge&logo=github&color=3B82F6&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/STATUS-OPEN%20FOR%20PROJECTS-22C55E?style=for-the-badge&labelColor=0D1117)
 ![Made with](https://img.shields.io/badge/MADE%20WITH-CODE%20%26%20COFFEE-EC4899?style=for-the-badge&labelColor=0D1117)
