@@ -131,7 +131,6 @@ flowchart LR
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Techploy&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true&custom_title=Techploy%20Activity%20Graph" alt="Activity graph" width="95%" />
 
 <br/>
 
