@@ -21,7 +21,7 @@
 <!-- ======================= ABOUT ======================= -->
 ## 👋 About Techploy
 
-> **We turn ideas into websites.** Techploy is a web and solutions studio that designs, builds and launches clean, fast, modern websites for students, individuals and businesses.
+> **We turn your ideas into websites.** Techploy is a web and solutions studio that designs, builds and launches clean, fast, modern websites for students, individuals and businesses.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Techploy/Techploy/main/terminal.svg" alt="Terminal animation describing Techploy" width="85%"/>
